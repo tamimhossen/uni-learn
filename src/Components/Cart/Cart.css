@@ -1,0 +1,8 @@
+.border {
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+}
+
+.margin {
+    margin-left: 10px;
+}
